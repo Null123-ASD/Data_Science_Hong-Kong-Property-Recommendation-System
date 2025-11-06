@@ -1,0 +1,4 @@
+Parse error on line 199990:
+... "provided_area": 0,
+-----------------------^
+Expecting 'STRING', got 'EOF'
